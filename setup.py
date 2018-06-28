@@ -11,7 +11,7 @@ from os import path
 
 here = path.abspath(path.dirname(__file__))
 
-__author__ = 'Arthur Fortes <fortes.arthur@gmail.com>'
+__author__ = 'removed for double blind review'
 
 # Get the long description from the README file
 with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
