@@ -1,12 +1,11 @@
 # Case Recommender - A Python Framework for RecSys
 
-[![PyPI version](https://badge.fury.io/py/CaseRecommender.svg)](https://badge.fury.io/py/CaseRecommender)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![GitHub license](https://img.shields.io/github/license/caserec/CaseRecommender.svg)](https://github.com/caserec/CaseRecommender/blob/master/COPYING)
 
+Case Recommender was developed to provide flexibility and extensibility in research environments, while maintaining high performance, providing a variety of recommendation and clustering algorithms, as well as functions for data manipulation. Its primary concern is to maximize usefulness for research and education, instead of large-scale commercial operations. The framework is also designed to support a wide variety of recommendation approaches, including content-based, collaborative filtering and hybrid approaches. Case Recommender is developed in Python and it is published as an MIT License, making it easy for third parties to contribute with additional implementations and features.
 
-Case Recommender is a Python implementation of a number of popular recommendation algorithms for both implicit and explicit feedback.  The framework aims to provide a rich set of components from which you can construct a customized recommender system from a set of algorithms. Case Recommender has different types of item recommendation and rating prediction approaches, and different metrics validation and evaluation.
-
+**This repository has been cloned and anonymized for review. (Demo ACM RecSys 2018).
 
 # Algorithms
 Item Recommendation:
