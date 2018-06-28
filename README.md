@@ -5,7 +5,7 @@
 
 Case Recommender was developed to provide flexibility and extensibility in research environments, while maintaining high performance, providing a variety of recommendation and clustering algorithms, as well as functions for data manipulation. Its primary concern is to maximize usefulness for research and education, instead of large-scale commercial operations. The framework is also designed to support a wide variety of recommendation approaches, including content-based, collaborative filtering and hybrid approaches. Case Recommender is developed in Python and it is published as an MIT License, making it easy for third parties to contribute with additional implementations and features.
 
-**This repository has been cloned and anonymized for review. (Demo ACM RecSys 2018).
+**This repository has been cloned and anonymized for double blind review. (Demo ACM RecSys 2018).
 
 # Algorithms
 Item Recommendation:
