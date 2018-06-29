@@ -14,7 +14,7 @@ import numpy as np
 from caserec.recommenders.rating_prediction.matrixfactorization import MatrixFactorization
 from caserec.utils.extra_functions import timed
 
-__author__ = 'Eduardo Fressato <eduardofressato@hotmail.com>'
+__author__ = 'removed for double blind review'
 
 
 class ItemMSMF(MatrixFactorization):
