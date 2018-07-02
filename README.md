@@ -8,7 +8,7 @@ Case Recommender is a Python implementation of a number of popular recommendatio
 
 # Demonstration
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Case Recommender](/media/casere_rec_img.png)](https://www.youtube.com/watch?v=NHCQQD3ZSNA "Case Recommender")
 
 # Algorithms
 Item Recommendation:
