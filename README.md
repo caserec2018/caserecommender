@@ -104,10 +104,6 @@ Case Recommender can be installed using pip:
 
     $ pip install caserecommender
 
-If you want to run the latest version of the code, you can install from git:
-
-    $ pip install -U git+git://github.com/caserec/CaseRecommender.git
-
 # Usage
 
 Divide Database (Fold Cross Validation)
@@ -156,7 +152,7 @@ To help the project with contributions follow the steps:
 
 - You just contributed to the CaseRecommender project!
 
-For bugs or feedback use this link: https://github.com/caserec/CaseRecommender/issues
+For bugs or feedback use this link: removed for double-blind-review
 
 
 # License (MIT)
