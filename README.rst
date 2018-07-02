@@ -1,12 +1,6 @@
 Case Recommender - A Python Framework for RecSys
 ===================================================
 
-.. image:: https://badge.fury.io/py/CaseRecommender.svg
-    :target: https://badge.fury.io/py/CaseRecommender
-
-.. image:: https://img.shields.io/github/license/caserec/CaseRecommender.svg   :alt: GitHub license   :target: https://github.com/caserec/CaseRecommender/blob/master/COPYING
-
-
 Case Recommender is a Python implementation of a number of popular recommendation algorithms for both implicit and
 explicit feedback.  The framework aims to provide a rich set of components from which you can construct a customized
 recommender system from a set of algorithms. Case Recommender has different types of item recommendation and rating
@@ -107,15 +101,6 @@ Quick start
 Case Recommender can be installed using pip:
 
     $ pip install caserecommender
-
-If you want to run the latest version of the code, you can install from git:
-
-    $ pip install -U git+git://github.com/caserec/CaseRecommender.git
-
-More Details
-^^^^^^^^^^^^^
-
-    `https://github.com/caserec/CaseRecommender <https://github.com/caserec/CaseRecommender>`_
 
 
 License (MIT)
