@@ -17,7 +17,7 @@ from caserec.recommenders.item_recommendation.base_item_recommendation import Ba
 from caserec.utils.process_data import ReadFile
 from caserec.utils.extra_functions import timed
 
-__author__ = 'Eduardo Fressato <eduardofressato@hotmail.com>'
+__author__ = 'removed for double blind review'
 
 
 class ContentBased(BaseItemRecommendation):
